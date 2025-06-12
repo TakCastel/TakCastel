@@ -1,10 +1,13 @@
-## 🌐 Nouveau site en ligne !
+# Tarik Talhaoui
 
-Je viens de mettre en ligne mon site perso : [tariktalhaoui.fr](https://tariktalhaoui.fr)  
-Développeur front-end freelance à Avignon, j’y partage des retours d’expérience, projets et réflexions techniques.
+Développeur front-end freelance basé à Avignon, spécialisé en Vue.js, Nuxt et Tailwind CSS.
 
-🛠️ Stack : WordPress customisé + Tailwind CSS  
-🧠 SEO optimisé dès le départ avec Slim SEO  
-🎯 Design sobre, contenu clair, performances au rendez-vous
+Vous pouvez consulter mon site personnel à l’adresse suivante :  
+👉 [https://tariktalhaoui.fr](https://tariktalhaoui.fr)
 
-N’hésitez pas à y jeter un œil, tout retour est bienvenu.
+J’y regroupe des retours d’expérience, des réflexions sur le développement web et des projets récents.
+
+---
+
+🛠️ Stack principale : Vue.js / Nuxt 3 / Tailwind / WordPress  
+📬 Contact : contact@tariktalhaoui.fr
