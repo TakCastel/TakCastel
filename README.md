@@ -46,10 +46,10 @@ Responsible for community management, editorial strategy, worldbuilding, scenari
 ## Selected Highlights
 
 - Founder of Polinizz
-- Winner of the Shift Gen AI Hackathon in Nantes
 - Lead Developer on large-scale design systems and business applications
 - Delivery of SaaS, e-commerce, media, and custom web platforms
 - Advocate for accessibility, performance, and maintainable front-end architectures
+- Winner of the Shift Gen AI Hackathon in Nantes
 
 📍 Avignon, France • Remote & Hybrid  
 📬 takcastel@gmail.com
