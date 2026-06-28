@@ -1,36 +1,51 @@
 # Lead Front-end Developer & Product Builder
 
-Basé à Avignon, je conçois des applications web modernes, accessibles et performantes depuis plus de 8 ans.
+Based in Avignon, France, I have over 8 years of experience building modern, accessible, and high-performance web applications.
 
-Spécialisé en Vue.js, Nuxt.js et architectures front-end scalables, j'interviens sur l'ensemble du cycle de vie d'un produit : conception, développement, design systems, accessibilité, performance, déploiement et accompagnement des équipes.
+Specialized in Vue.js, Nuxt.js, and scalable front-end architectures, I work across the entire product lifecycle, from discovery and technical design to development, deployment, and long-term maintenance.
 
-Je m'intéresse particulièrement à l'IA appliquée au développement, aux outils de productivité pour les équipes techniques et à la création de produits numériques à impact.
+My background combines technical leadership, product thinking, and a strong focus on user experience, accessibility, performance, and sustainable digital practices. I am also actively exploring AI-driven development workflows and the integration of AI agents into software delivery processes.
 
-Vous pouvez retrouver mon parcours, mes projets et mes publications sur LinkedIn :
+You can find my professional experience, projects, and publications on LinkedIn:
 
 👉 https://www.linkedin.com/in/tarik-talhaoui-832769110/
 
-## Domaines d'expertise
+## Areas of Expertise
 
 - Vue.js & Nuxt.js
-- Next.js & React
+- React & Next.js
+- TypeScript & JavaScript
 - Tailwind CSS
 - Design Systems
-- Accessibilité (RGAA / WCAG)
-- Performance Web & Core Web Vitals
-- SEO technique
-- CMS Headless (Strapi, Directus)
+- Accessibility (WCAG / RGAA)
+- Web Performance & Core Web Vitals
+- Technical SEO
+- Headless CMS (Strapi, Directus, WordPress)
 - Firebase & Supabase
-- DevOps (Vercel, Netlify, OVH)
-- IA appliquée au développement
-- Encadrement technique et vision produit
+- DevOps & Deployment (Vercel, Netlify, OVH)
+- AI-Driven Development
+- Technical Leadership
+- Product Strategy & Delivery
 
-## Projets marquants
+## Selected Projects
 
-- Fondateur de Polinizz, plateforme d'agrégation d'événements locaux
-- Lauréat du Shift Hackathon Gen AI à Nantes
-- Conception et maintenance de plateformes SaaS, e-commerce et applications métiers
-- Mise en place et gouvernance de Design Systems à grande échelle
+### Polinizz
+Local events discovery platform designed to help people find nearby activities and cultural events through a unified, map-based experience.
 
-📍 Avignon • Télétravail & hybride  
-📬 contact@tariktalhaoui.fr
+🌐 https://polinizz.fr
+
+### Archeode
+Community platform dedicated to roleplay and online gaming communities, including custom development, design system creation, content architecture, and user experience design.
+
+🌐 https://archeode.fr
+
+## Selected Highlights
+
+- Founder of Polinizz
+- Winner of the Shift Gen AI Hackathon in Nantes
+- Lead Developer on large-scale design systems and business applications
+- Delivery of SaaS, e-commerce, media, and custom web platforms
+- Advocate for accessibility, performance, and maintainable front-end architectures
+
+📍 Avignon, France • Remote & Hybrid  
+📬 takcastel@gmail.com
