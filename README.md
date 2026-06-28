@@ -1,32 +1,36 @@
-# Développeur Front-end & Lead Developer
+# Lead Front-end Developer & Product Builder
 
-Basé à Avignon, avec plus de 8 ans d'expérience dans la conception d'applications web modernes, performantes et accessibles.
+Basé à Avignon, je conçois des applications web modernes, accessibles et performantes depuis plus de 8 ans.
 
-Spécialisé dans l'écosystème Vue.js et Nuxt.js, j'accompagne startups, agences et entreprises dans la création de plateformes sur mesure, de design systems et d'interfaces centrées sur l'expérience utilisateur. Je m'intéresse également aux sujets liés au produit, à l'accessibilité, à la performance, à l'éco-conception et à l'IA appliquée au développement.
+Spécialisé en Vue.js, Nuxt.js et architectures front-end scalables, j'interviens sur l'ensemble du cycle de vie d'un produit : conception, développement, design systems, accessibilité, performance, déploiement et accompagnement des équipes.
+
+Je m'intéresse particulièrement à l'IA appliquée au développement, aux outils de productivité pour les équipes techniques et à la création de produits numériques à impact.
 
 Vous pouvez retrouver mon parcours, mes projets et mes publications sur LinkedIn :
 
 👉 https://www.linkedin.com/in/tarik-talhaoui-832769110/
 
-## Expertises principales
+## Domaines d'expertise
 
-- Vue.js (Vue 2 & Vue 3)
-- Nuxt.js (Nuxt 2 & Nuxt 3)
+- Vue.js & Nuxt.js
+- Next.js & React
 - Tailwind CSS
-- Design Systems & Atomic Design
-- Accessibilité (RGAA, WCAG)
-- SEO & performance web
-- WordPress sur mesure
-- Firebase & Strapi
-- Cypress & tests front-end
-- AI-Driven Development
+- Design Systems
+- Accessibilité (RGAA / WCAG)
+- Performance Web & Core Web Vitals
+- SEO technique
+- CMS Headless (Strapi, Directus)
+- Firebase & Supabase
+- DevOps (Vercel, Netlify, OVH)
+- IA appliquée au développement
+- Encadrement technique et vision produit
 
-## Approche
+## Projets marquants
 
-- Interfaces rapides, accessibles et maintenables
-- Architecture front-end évolutive
-- Vision produit et accompagnement des équipes
-- Sensibilité forte aux enjeux d'éco-conception et de sobriété numérique
+- Fondateur de Polinizz, plateforme d'agrégation d'événements locaux
+- Lauréat du Shift Hackathon Gen AI à Nantes
+- Conception et maintenance de plateformes SaaS, e-commerce et applications métiers
+- Mise en place et gouvernance de Design Systems à grande échelle
 
-📍 Avignon • Disponible en télétravail ou en mode hybride  
+📍 Avignon • Télétravail & hybride  
 📬 contact@tariktalhaoui.fr
