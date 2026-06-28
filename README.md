@@ -4,7 +4,7 @@ Lead Front-end Developer, Product Builder, and Founder based in Avignon, France.
 
 I build modern web applications with a strong focus on user experience, accessibility, performance, and scalable front-end architecture.
 
-Passionate about product development, AI-driven workflows, and digital innovation, I enjoy turning ideas into useful products and helping teams deliver better software.
+Passionate about product development, AI-driven workflows, creative technologies, and digital innovation, I enjoy turning ideas into products, communities, and creative projects.
 
 ## Tech Stack
 
@@ -30,17 +30,19 @@ Founder, product designer, and developer.
 
 ### Archeode
 
-A community-driven roleplay project focused on storytelling, worldbuilding, editorial content, event organization, and community management.
+A community-driven roleplay project focused on storytelling, worldbuilding, editorial content, event organization, community management, and digital content creation.
 
 🌐 https://archeode.fr
 
-### AI Music Project
+### AI Music
 
-Produced and released a fully AI-generated music album, from composition and lyrics to vocals, artwork, and production workflow.
+Creator of AI-assisted music projects exploring orchestral, electronic, cinematic, folk, and experimental genres.
 
-Available on major streaming platforms.
+Produced and released a complete album available on streaming platforms while experimenting with generative music workflows, songwriting, artistic direction, and audio production.
 
-🎵 https://music.youtube.com/playlist?list=OLAK5uy_nqtSWYrUdaHjLizEfWAyDZdTZ0Q7F0L2E
+🎵 Album: https://music.youtube.com/playlist?list=OLAK5uy_nqtSWYrUdaHjLizEfWAyDZdTZ0Q7F0L2E
+
+🎼 Suno Profile: https://suno.com/@kiravalentine
 
 ## Interests
 
@@ -51,6 +53,7 @@ Available on major streaming platforms.
 * Web Performance
 * Artificial Intelligence
 * Community Building
+* Creative Technologies
 * Open Source
 
 ## Connect
