@@ -32,10 +32,14 @@ You can find my professional experience, projects, and publications on LinkedIn:
 ### Polinizz
 Local events discovery platform designed to help people find nearby activities and cultural events through a unified, map-based experience.
 
+Founder, product designer and developer.
+
 🌐 https://polinizz.fr
 
 ### Archeode
-Community platform dedicated to roleplay and online gaming communities, including custom development, design system creation, content architecture, and user experience design.
+Community-driven roleplay project built around online gaming and collaborative storytelling.
+
+Responsible for community management, editorial strategy, worldbuilding, scenario writing, event organization, content production, and visual storytelling through screenshots and in-game reporting.
 
 🌐 https://archeode.fr
 
