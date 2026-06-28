@@ -1,55 +1,51 @@
-# Lead Front-end Developer & Product Builder
+# Hi, I'm Tarik 👋
 
-Based in Avignon, France, I have over 8 years of experience building modern, accessible, and high-performance web applications.
+Lead Front-end Developer, Product Builder, and Founder based in Avignon, France.
 
-Specialized in Vue.js, Nuxt.js, and scalable front-end architectures, I work across the entire product lifecycle, from discovery and technical design to development, deployment, and long-term maintenance.
+I build modern web applications with a strong focus on user experience, accessibility, performance, and scalable front-end architecture.
 
-My background combines technical leadership, product thinking, and a strong focus on user experience, accessibility, performance, and sustainable digital practices. I am also actively exploring AI-driven development workflows and the integration of AI agents into software delivery processes.
+Passionate about product development, AI-driven workflows, and digital innovation, I enjoy turning ideas into useful products and helping teams deliver better software.
 
-You can find my professional experience, projects, and publications on LinkedIn:
+## Tech Stack
 
-👉 https://www.linkedin.com/in/tarik-talhaoui-832769110/
+* Vue.js & Nuxt.js
+* React & Next.js
+* JavaScript & TypeScript
+* Tailwind CSS
+* Firebase & Supabase
+* Strapi, Directus & WordPress
+* Design Systems
+* AI-Driven Development
+* DevOps (Vercel, Netlify, OVH)
 
-## Areas of Expertise
-
-- Vue.js & Nuxt.js
-- React & Next.js
-- TypeScript & JavaScript
-- Tailwind CSS
-- Design Systems
-- Accessibility (WCAG / RGAA)
-- Web Performance & Core Web Vitals
-- Technical SEO
-- Headless CMS (Strapi, Directus, WordPress)
-- Firebase & Supabase
-- DevOps & Deployment (Vercel, Netlify, OVH)
-- AI-Driven Development
-- Technical Leadership
-- Product Strategy & Delivery
-
-## Selected Projects
+## Featured Projects
 
 ### Polinizz
-Local events discovery platform designed to help people find nearby activities and cultural events through a unified, map-based experience.
 
-Founder, product designer and developer.
+A platform helping people discover local events through a unified search and map experience.
+
+Founder, product designer, and developer.
 
 🌐 https://polinizz.fr
 
 ### Archeode
-Community-driven roleplay project built around online gaming and collaborative storytelling.
 
-Responsible for community management, editorial strategy, worldbuilding, scenario writing, event organization, content production, and visual storytelling through screenshots and in-game reporting.
+A community-driven roleplay project focused on storytelling, worldbuilding, editorial content, event organization, and community management.
 
 🌐 https://archeode.fr
 
-## Selected Highlights
+## Interests
 
-- Founder of Polinizz
-- Lead Developer on large-scale design systems and business applications
-- Delivery of SaaS, e-commerce, media, and custom web platforms
-- Advocate for accessibility, performance, and maintainable front-end architectures
-- Winner of the Shift Gen AI Hackathon in Nantes
+* Product Development
+* Front-end Architecture
+* Design Systems
+* Accessibility
+* Web Performance
+* Artificial Intelligence
+* Community Building
+* Open Source
 
-📍 Avignon, France • Remote & Hybrid  
-📬 takcastel@gmail.com
+## Connect
+
+* LinkedIn: https://www.linkedin.com/in/tarik-talhaoui-832769110/
+* Email: [takcastel@gmail.com](mailto:takcastel@gmail.com)
