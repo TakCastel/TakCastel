@@ -1,4 +1,4 @@
-# Hi, I'm Tarik 👋
+# Hi, I'm Tak 👋
 
 Lead Front-end Developer, Product Builder, and Founder based in Avignon, France.
 
