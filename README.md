@@ -34,6 +34,14 @@ A community-driven roleplay project focused on storytelling, worldbuilding, edit
 
 🌐 https://archeode.fr
 
+### AI Music Project
+
+Produced and released a fully AI-generated music album, from composition and lyrics to vocals, artwork, and production workflow.
+
+Available on major streaming platforms.
+
+🎵 https://music.youtube.com/playlist?list=OLAK5uy_nqtSWYrUdaHjLizEfWAyDZdTZ0Q7F0L2E
+
 ## Interests
 
 * Product Development
