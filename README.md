@@ -51,8 +51,6 @@ I build modern web applications with a strong focus on user experience, accessib
   </tr>
 </table>
 
-<sub>🔄 Updated weekly by a GitHub Action — no external service.</sub>
-
 ## 💡 Interests
 
 Product Development · Front-end Architecture · Design Systems · Accessibility · Web Performance · Artificial Intelligence · Community Building · Creative Technologies · Open Source
