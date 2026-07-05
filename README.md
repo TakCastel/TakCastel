@@ -40,6 +40,18 @@ A faithful recreation of the 2005 MSN Messenger experience — real-time chat wi
 
 🌐 https://github.com/TakCastel/nostalgie-msn
 
+### Prehistopia
+
+A neolithic city builder where every building shapes your tribe's survival. Built with Vue.js.
+
+🌐 https://prehistopia.vercel.app
+
+### Serpenter
+
+A web security analysis and audit application for websites, built with Nuxt.js, Firebase, and Tailwind CSS.
+
+🌐 https://serpenter.vercel.app
+
 ### AI Music
 
 Creator of AI-assisted music projects exploring orchestral, electronic, cinematic, folk, and experimental genres.
