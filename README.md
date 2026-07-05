@@ -32,7 +32,7 @@ I build modern web applications with a strong focus on user experience, accessib
   </tr>
   <tr>
     <td><a href="https://prehistopia.vercel.app/"><img src="assets/cards/prehistopia.svg" alt="Prehistopia — neolithic city builder" width="420"/></a></td>
-    <td><a href="https://serpenter.vercel.app"><img src="assets/cards/serpenter.svg" alt="Serpenter — web security analysis app" width="420"/></a></td>
+    <td><a href="https://serpenter.eu/"><img src="assets/cards/serpenter.svg" alt="Serpenter — web security analysis app" width="420"/></a></td>
   </tr>
   <tr>
     <td><a href="https://music.youtube.com/playlist?list=OLAK5uy_nqtSWYrUdaHjLizEfWAyDZdTZ0Q7F0L2E"><img src="assets/cards/ai-music.svg" alt="AI Music — full album on streaming platforms" width="420"/></a></td>
