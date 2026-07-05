@@ -1,0 +1,28 @@
+<svg width="1000" height="230" viewBox="0 0 1000 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hi, I'm Tak — Lead Front-end Developer, Product Builder and Founder">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1">
+        <animate attributeName="stop-color" values="#6366f1;#8b5cf6;#06b6d4;#6366f1" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#06b6d4;#6366f1;#8b5cf6" dur="10s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#06b6d4">
+        <animate attributeName="stop-color" values="#06b6d4;#6366f1;#8b5cf6;#06b6d4" dur="10s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="230" rx="16" fill="url(#bg)"/>
+  <circle cx="850" cy="40" r="90" fill="#ffffff" opacity="0.08">
+    <animate attributeName="cy" values="40;70;40" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="930" cy="180" r="60" fill="#ffffff" opacity="0.10">
+    <animate attributeName="cy" values="180;150;180" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="740" cy="150" r="35" fill="#ffffff" opacity="0.07">
+    <animate attributeName="cx" values="740;770;740" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <text x="60" y="105" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="46" font-weight="700" fill="#ffffff">Hi, I'm Tak 👋</text>
+  <text x="60" y="148" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="19" fill="#ffffff" opacity="0.95">Lead Front-end Developer · Product Builder · Founder</text>
+  <text x="60" y="180" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="15" fill="#ffffff" opacity="0.85">📍 Avignon, France — turning ideas into products, communities &amp; creative projects</text>
+</svg>
