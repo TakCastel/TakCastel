@@ -1,0 +1,36 @@
+<svg width="420" height="195" viewBox="0 0 420 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="GitHub stats of TakCastel">
+  <style>
+    .bg { fill: #ffffff; stroke: #d0d7de; }
+    .t  { fill: #1f2328; }
+    .d  { fill: #656d76; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #161b22; stroke: #30363d; }
+      .t  { fill: #e6edf3; }
+      .d  { fill: #8b949e; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="418" height="193" rx="12" class="bg" stroke-width="1"/>
+  <rect x="1" y="1" width="6" height="193" rx="3" fill="url(#g)"/>
+  <circle cx="40" cy="34" r="5" fill="url(#g)"/>
+  <text x="56" y="40" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" class="t">Tak's GitHub Stats</text>
+  <text x="396" y="40" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="11.5" class="d">since 2015</text>
+
+  <text x="34" y="78" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14">⭐</text>
+  <text x="62" y="78" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" class="d">Total stars</text>
+  <text x="396" y="78" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">38</text>
+  <text x="34" y="104" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14">📦</text>
+  <text x="62" y="104" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" class="d">Public repos</text>
+  <text x="396" y="104" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">79</text>
+  <text x="34" y="130" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14">👥</text>
+  <text x="62" y="130" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" class="d">Followers</text>
+  <text x="396" y="130" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">24</text>
+  <text x="34" y="156" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14">🔀</text>
+  <text x="62" y="156" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" class="d">Forks of my repos</text>
+  <text x="396" y="156" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">4</text>
+</svg>

@@ -44,16 +44,14 @@ I build modern web applications with a strong focus on user experience, accessib
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TakCastel&show_icons=true&hide_border=true&theme=github_dark&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api?username=TakCastel&show_icons=true&hide_border=true&bg_color=00000000" alt="Tak's GitHub stats" height="165"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TakCastel&layout=compact&hide_border=true&theme=github_dark&bg_color=00000000">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TakCastel&layout=compact&hide_border=true&bg_color=00000000" alt="Top languages" height="165"/>
-  </picture>
-</div>
+<table>
+  <tr>
+    <td><img src="assets/stats.svg" alt="Tak's GitHub stats" width="420"/></td>
+    <td><img src="assets/top-langs.svg" alt="Most used languages" width="420"/></td>
+  </tr>
+</table>
+
+<sub>🔄 Updated weekly by a GitHub Action — no external service.</sub>
 
 ## 💡 Interests
 

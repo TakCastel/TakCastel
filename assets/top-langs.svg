@@ -1,0 +1,50 @@
+<svg width="420" height="195" viewBox="0 0 420 195" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Most used languages of TakCastel">
+  <style>
+    .bg { fill: #ffffff; stroke: #d0d7de; }
+    .t  { fill: #1f2328; }
+    .d  { fill: #656d76; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #161b22; stroke: #30363d; }
+      .t  { fill: #e6edf3; }
+      .d  { fill: #8b949e; }
+    }
+  </style>
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <clipPath id="bar"><rect x="34" y="58" width="362" height="10" rx="5"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="418" height="193" rx="12" class="bg" stroke-width="1"/>
+  <rect x="1" y="1" width="6" height="193" rx="3" fill="url(#g)"/>
+  <circle cx="40" cy="34" r="5" fill="url(#g)"/>
+  <text x="56" y="40" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" class="t">Most Used Languages</text>
+  <g clip-path="url(#bar)">
+  <rect x="34.0" y="58" width="126.1" height="10" fill="#3178c6"/>
+  <rect x="160.1" y="58" width="82.6" height="10" fill="#4F5D95"/>
+  <rect x="242.7" y="58" width="75.5" height="10" fill="#f1e05a"/>
+  <rect x="318.2" y="58" width="37.7" height="10" fill="#e34c26"/>
+  <rect x="355.9" y="58" width="24.8" height="10" fill="#41b883"/>
+  <rect x="380.7" y="58" width="12.2" height="10" fill="#663399"/>
+  </g>
+
+  <circle cx="39" cy="96" r="5" fill="#3178c6"/>
+  <text x="52" y="100" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12.5" class="t">TypeScript</text>
+  <text x="199" y="100" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" class="d">34.8%</text>
+  <circle cx="224" cy="96" r="5" fill="#4F5D95"/>
+  <text x="237" y="100" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12.5" class="t">PHP</text>
+  <text x="384" y="100" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" class="d">22.8%</text>
+  <circle cx="39" cy="122" r="5" fill="#f1e05a"/>
+  <text x="52" y="126" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12.5" class="t">JavaScript</text>
+  <text x="199" y="126" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" class="d">20.9%</text>
+  <circle cx="224" cy="122" r="5" fill="#e34c26"/>
+  <text x="237" y="126" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12.5" class="t">HTML</text>
+  <text x="384" y="126" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" class="d">10.4%</text>
+  <circle cx="39" cy="148" r="5" fill="#41b883"/>
+  <text x="52" y="152" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12.5" class="t">Vue</text>
+  <text x="199" y="152" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" class="d">6.9%</text>
+  <circle cx="224" cy="148" r="5" fill="#663399"/>
+  <text x="237" y="152" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12.5" class="t">CSS</text>
+  <text x="384" y="152" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="12" class="d">3.4%</text>
+</svg>
