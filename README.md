@@ -38,7 +38,15 @@ A community-driven roleplay project focused on storytelling, worldbuilding, edit
 
 A faithful recreation of the 2005 MSN Messenger experience — real-time chat with Wizz, classic emoticons, sounds, and Windows XP aesthetics. Built with React, Vite, and Firebase (Firestore, Cloud Functions, anonymous auth).
 
-🌐 https://github.com/TakCastel/nostalgie-msn
+🌐 https://nostalgie-msn.web.app/
+
+💻 https://github.com/TakCastel/nostalgie-msn
+
+### Pavat
+
+A strategic tile-placement puzzle game — place tiles on a grid, form lines and validated groups to score points, and challenge your friends.
+
+🌐 https://pavat-game.web.app/
 
 ### Prehistopia
 
