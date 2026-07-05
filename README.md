@@ -20,55 +20,15 @@ Passionate about product development, AI-driven workflows, creative technologies
 
 ## Featured Projects
 
-### Polinizz
-
-A platform helping people discover local events through a unified search and map experience.
-
-Founder, product designer, and developer.
-
-🌐 https://polinizz.fr
-
-### Archeode
-
-A community-driven roleplay project focused on storytelling, worldbuilding, editorial content, event organization, community management, and digital content creation.
-
-🌐 https://archeode.fr
-
-### Nostalgie MSN
-
-A faithful recreation of the 2005 MSN Messenger experience — real-time chat with Wizz, classic emoticons, sounds, and Windows XP aesthetics. Built with React, Vite, and Firebase (Firestore, Cloud Functions, anonymous auth).
-
-🌐 https://nostalgie-msn.web.app/
-
-💻 https://github.com/TakCastel/nostalgie-msn
-
-### Pavat
-
-A strategic tile-placement puzzle game — place tiles on a grid, form lines and validated groups to score points, and challenge your friends.
-
-🌐 https://pavat-game.web.app/
-
-### Prehistopia
-
-A neolithic city builder where every building shapes your tribe's survival. Built with Vue.js.
-
-🌐 https://prehistopia.vercel.app
-
-### Serpenter
-
-A web security analysis and audit application for websites, built with Nuxt.js, Firebase, and Tailwind CSS.
-
-🌐 https://serpenter.vercel.app
-
-### AI Music
-
-Creator of AI-assisted music projects exploring orchestral, electronic, cinematic, folk, and experimental genres.
-
-Produced and released a complete album available on streaming platforms while experimenting with generative music workflows, songwriting, artistic direction, and audio production.
-
-🎵 Album: https://music.youtube.com/playlist?list=OLAK5uy_nqtSWYrUdaHjLizEfWAyDZdTZ0Q7F0L2E
-
-🎼 Suno Profile: https://suno.com/@kiravalentine
+| Project | Description | Links |
+|---|---|---|
+| 🐝 **Polinizz** | Local events discovery through a unified search and map experience. Founder, product designer & developer. | [polinizz.fr](https://polinizz.fr) |
+| 🏛️ **Archeode** | Community-driven roleplay project: storytelling, worldbuilding, events, and content creation. | [archeode.fr](https://archeode.fr) |
+| 💬 **Nostalgie MSN** | The 2005 MSN Messenger experience recreated — real-time chat, Wizz, emoticons, Windows XP look. React + Firebase. | [App](https://nostalgie-msn.web.app/) · [Code](https://github.com/TakCastel/nostalgie-msn) |
+| 🧩 **Pavat** | Strategic tile-placement puzzle game — score points, challenge your friends. | [Play](https://pavat-game.web.app/) |
+| 🦣 **Prehistopia** | Neolithic city builder where every building shapes your tribe's survival. | [Play](https://prehistopia.vercel.app/) |
+| 🐍 **Serpenter** | Web security analysis and audit application. Nuxt + Firebase. | [App](https://serpenter.vercel.app) |
+| 🎵 **AI Music** | AI-assisted music across orchestral, electronic, cinematic and folk genres — full album on streaming platforms. | [Album](https://music.youtube.com/playlist?list=OLAK5uy_nqtSWYrUdaHjLizEfWAyDZdTZ0Q7F0L2E) · [Suno](https://suno.com/@kiravalentine) |
 
 ## Interests
 
