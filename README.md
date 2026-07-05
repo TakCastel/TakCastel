@@ -34,6 +34,12 @@ A community-driven roleplay project focused on storytelling, worldbuilding, edit
 
 🌐 https://archeode.fr
 
+### Nostalgie MSN
+
+A faithful recreation of the 2005 MSN Messenger experience — real-time chat with Wizz, classic emoticons, sounds, and Windows XP aesthetics. Built with React, Vite, and Firebase (Firestore, Cloud Functions, anonymous auth).
+
+🌐 https://github.com/TakCastel/nostalgie-msn
+
 ### AI Music
 
 Creator of AI-assisted music projects exploring orchestral, electronic, cinematic, folk, and experimental genres.
