@@ -72,7 +72,7 @@ Senior developer specialized in front-end architecture and scalable design syste
   </tr>
 </table>
 
-<sub>💻 Nostalgie MSN source: [github.com/TakCastel/nostalgie-msn](https://github.com/TakCastel/nostalgie-msn) · 🎼 Suno profile: [suno.com/@kiravalentine](https://suno.com/@kiravalentine)</sub>
+<sub>🎼 Suno profile: [suno.com/@kiravalentine](https://suno.com/@kiravalentine)</sub>
 
 ## 📊 GitHub Stats
 
