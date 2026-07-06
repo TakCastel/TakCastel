@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" alt="Hi, I'm Tak — Lead Front-end Developer, Product Builder & Founder, based in Avignon, France" width="100%"/>
 
-<br/><br/>
+</div>
 
 **Front-end**
 
@@ -46,8 +46,6 @@
 ![Core Web Vitals](https://img.shields.io/badge/Core_Web_Vitals-0CCE6B?style=for-the-badge&logo=lighthouse&logoColor=white)
 ![Accessibility](https://img.shields.io/badge/Accessibilit%C3%A9_RGAA-1D4ED8?style=for-the-badge)
 ![Agile](https://img.shields.io/badge/Agile%2FScrum-F59E0B?style=for-the-badge)
-
-</div>
 
 Senior developer specialized in front-end architecture and scalable design systems. I work across the whole technical chain — modern JavaScript stack, headless CMS, DevOps, and technical mentoring — with a constant focus on Core Web Vitals and accessibility. Self-taught and curious, I combine technical rigor with a product mindset, turning ideas into products, communities, and creative projects.
 
