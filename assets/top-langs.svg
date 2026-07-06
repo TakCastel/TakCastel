@@ -22,9 +22,9 @@
   <text x="56" y="40" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="16" font-weight="700" class="t">Most Used Languages</text>
   <g clip-path="url(#bar)">
   <rect x="34.0" y="58" width="126.1" height="10" fill="#3178c6"/>
-  <rect x="160.1" y="58" width="82.6" height="10" fill="#4F5D95"/>
-  <rect x="242.7" y="58" width="75.5" height="10" fill="#f1e05a"/>
-  <rect x="318.2" y="58" width="37.7" height="10" fill="#e34c26"/>
+  <rect x="160.1" y="58" width="82.5" height="10" fill="#4F5D95"/>
+  <rect x="242.6" y="58" width="75.6" height="10" fill="#f1e05a"/>
+  <rect x="318.2" y="58" width="37.6" height="10" fill="#e34c26"/>
   <rect x="355.9" y="58" width="24.8" height="10" fill="#41b883"/>
   <rect x="380.7" y="58" width="12.2" height="10" fill="#663399"/>
   </g>
