@@ -23,13 +23,13 @@
 
   <text x="34" y="78" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14">⭐</text>
   <text x="62" y="78" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" class="d">Total stars</text>
-  <text x="396" y="78" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">38</text>
+  <text x="396" y="78" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">39</text>
   <text x="34" y="104" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14">📦</text>
   <text x="62" y="104" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" class="d">Public repos</text>
-  <text x="396" y="104" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">80</text>
+  <text x="396" y="104" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">81</text>
   <text x="34" y="130" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14">👥</text>
   <text x="62" y="130" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" class="d">Followers</text>
-  <text x="396" y="130" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">24</text>
+  <text x="396" y="130" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">25</text>
   <text x="34" y="156" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="14">🔀</text>
   <text x="62" y="156" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" class="d">Forks of my repos</text>
   <text x="396" y="156" text-anchor="end" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" class="t">4</text>
